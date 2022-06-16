@@ -34,7 +34,7 @@ function IndexPage() {
               alt={'Login Image'}
               objectFit={'cover'}
               src={
-                'https://res.cloudinary.com/leurjim/image/upload/v1652588866/logo1_dnilke.png '
+                'https://res.cloudinary.com/leurjim/image/upload/v1655346824/logo5_mgfan6.jpg'
               }
             />
           </Box>
