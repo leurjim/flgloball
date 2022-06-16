@@ -24,7 +24,7 @@ function IndexPage() {
   return (
     <Layout>
     <Stack direction={{ base: 'column', md: 'row' }} mt='60px'>
-      <Flex p={8} flex={2} align={'center'} justifyContent={'center'} >
+      <Flex p={8} flex={2} align={'center'} justifyContent={'center'} bg="white">
         <Stack spacing={6} w={'full'} maxW={'sm'}>
           <Box
             as="div"
@@ -50,7 +50,7 @@ function IndexPage() {
               alt={'Login Image'}
               objectFit={'cover'}
               src={
-                'https://res.cloudinary.com/leurjim/image/upload/v1652581640/dimitry-anikin-TOKU5lczI3I-unsplash_qniush.jpg'
+                'https://res.cloudinary.com/leurjim/image/upload/v1655048122/dimitry-anikin-TOKU5lczI3I-unsplash_mzeuaj.jpg'
               }
             />
           </GridItem>
@@ -217,7 +217,7 @@ function IndexPage() {
               h='800px'
               w={'full'}
               src={
-                'https://res.cloudinary.com/leurjim/image/upload/v1653474112/pat-whelen-NxM3zUWHFoI-unsplash_iywlrm.jpg'
+                'https://res.cloudinary.com/leurjim/image/upload/v1655048124/pat-whelen-NxM3zUWHFoI-unsplash_zcoghg.jpg'
               }
             />
             <Center mt='auto'>

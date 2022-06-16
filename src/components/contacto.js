@@ -34,7 +34,7 @@ import {
         backgroundPosition="center"
         backgroundRepeat="no-repeat"
         backgroundSize="cover"
-        backgroundImage={`url('https://res.cloudinary.com/leurjim/image/upload/v1654597343/athanasios-papazacharias-0J8hoI5aW_Q-unsplash_cjv3mh.jpg')`}>
+        backgroundImage={`url('https://res.cloudinary.com/leurjim/image/upload/v1655048121/athanasios-papazacharias-0J8hoI5aW_Q-unsplash_jgdrui.jpg')`}>
         <Container 
             maxW="full" 
             mt={0} 

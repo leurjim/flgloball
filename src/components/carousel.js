@@ -44,21 +44,21 @@ export default function CaptionCarousel() {
       text:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
       image:
-        'https://res.cloudinary.com/leurjim/image/upload/v1654278491/bernd-dittrich-eCc7FjMoR74-unsplash_tsyzdg.jpg',
+        'https://res.cloudinary.com/leurjim/image/upload/v1655048122/bernd-dittrich-eCc7FjMoR74-unsplash_c4wbcu.jpg',
     },
     {
       title: 'Transporte Aéreo',
       text:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
       image:
-        'https://res.cloudinary.com/leurjim/image/upload/v1654547491/aaron-barnaby-A6HjuUdcURY-unsplash_fvmpdx.jpg',
+        'https://res.cloudinary.com/leurjim/image/upload/v1655048122/aaron-barnaby-A6HjuUdcURY-unsplash_tujhsc.jpg',
     },
     {
       title: 'Transporte Máritimo',
       text:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
       image:
-        'https://res.cloudinary.com/leurjim/image/upload/v1654547363/axel-ahoi-hjEesK4KSDs-unsplash_umdbma.jpg',
+        'https://res.cloudinary.com/leurjim/image/upload/v1655048122/axel-ahoi-hjEesK4KSDs-unsplash_nkinoi.jpg',
     },
   ];
 
