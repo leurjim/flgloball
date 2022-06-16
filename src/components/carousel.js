@@ -42,21 +42,21 @@ export default function CaptionCarousel() {
     {
       title: 'Transporte Terrestre Local',
       text:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+        "Desarrollamos soluciones logísticas de acuerdo con las exigencias específicas de cada carga. Contamos con la mejor oferta de transporte terrestre de mercancías y brindamos confiabilidad y flexibilidad que nuestros clientes necesitan.",
       image:
         'https://res.cloudinary.com/leurjim/image/upload/v1655048122/bernd-dittrich-eCc7FjMoR74-unsplash_c4wbcu.jpg',
     },
     {
       title: 'Transporte Aéreo',
       text:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+        "Envíos rápidos por su naturaleza y con la posibilidad de llegar a cualquier parte del mundo con fecha de entrega asegurada y máximas garantías. Operación controlada y supervisada de inicio a fin.",
       image:
         'https://res.cloudinary.com/leurjim/image/upload/v1655048122/aaron-barnaby-A6HjuUdcURY-unsplash_tujhsc.jpg',
     },
     {
       title: 'Transporte Máritimo',
       text:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+        "Facilitamos el comercio internacional con la gestión de reservas y cotizaciones de los servicios de transporte marítimo de mercancías de forma fácil y rápida. ",
       image:
         'https://res.cloudinary.com/leurjim/image/upload/v1655048122/axel-ahoi-hjEesK4KSDs-unsplash_nkinoi.jpg',
     },
